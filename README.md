@@ -36,7 +36,6 @@ arguments that you can pass:
 - minlength : the maximum length -> default 32
 - delay : delay in seconds -> default None
 - strong: check if password strong -> default False
-explain
 
 ## Todo
 I will try to maintain this respiratory and update or add new things to it you are welcome to contribute :relaxed:
